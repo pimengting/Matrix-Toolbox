@@ -4,3 +4,5 @@
 
 *.tlog
 /matrix/.vs/matrix/v15
+/matrix/Debug
+/matrix/ipch
